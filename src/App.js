@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          My first steps in React
         </p>
         <a
           className="App-link"
@@ -18,6 +18,12 @@ function App() {
         >
           Learn React
         </a>
+        <h1>
+          Заголовок 42
+        </h1>
+        <p>
+          И совсем немного текста...
+        </p>
       </header>
     </div>
   );
